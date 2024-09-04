@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer:Git is used for efficient version control, enabling multiple people to collaborate on projects, track changes, and revert to previous versions. 
+    It provides branching for parallel development and helps maintain a clear project history, which improves collaboration and productivity.
