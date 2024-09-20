@@ -49,7 +49,7 @@ This should display the version of Git installed on your system.
 
    The remote serves as an alias for where your changes are uploaded pushes and pulls.
    ```bash 
-   git remote set-url origin git@github.com:russellchiu/testing.git
+   git remote set-url origin git@github.com:USERNAME/REPOSITORY_NAME.git
 
    ```
 
@@ -172,14 +172,16 @@ Answer: [Your answer here]
 
 ```
 
+stage/commit when youre done
+
 
 ### Step 2: Create a New Branch
 
 1. **Create a new branch named `q3`** and switch to it:
 
-2. **Add your answer to the third question** in `answers.txt`:
+2. **Add your answer to the fourth question** in `answers.txt`:
    ```text
-   Q3: What skills do you hope to improve during this course?
+   Q4: What skills do you hope to improve during this course?
 
    Answer: [Your answer here]
    ```
