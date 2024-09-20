@@ -17,3 +17,11 @@ Answer: Merging: Combines the changes from two branches by creating a new "merge
     It results in a non-linear history.
         Rebasing: Moves or "replays" commits from one branch onto another, 
     creating a linear history by applying your changes on top of the target branch without a merge commit.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Programming Languages ( Python, SQL)
+	Database Management
+	Version Control (Git, GitHub)
+	Data Analysis (Understanding and interpreting datasets)
+	Team Collaboration (Working effectively with others)
